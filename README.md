@@ -1,6 +1,6 @@
 # riverpod_practice
 
-A new Flutter project.
+riverpodから逃げない‼️
 
 ## Getting Started
 
